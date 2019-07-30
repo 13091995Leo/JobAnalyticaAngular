@@ -1,0 +1,2 @@
+# JobAnalyticaAngular
+Angular Workspace
